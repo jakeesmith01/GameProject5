@@ -1,0 +1,13 @@
+blank.png | gradient.png -> from the MonoGame port of the XNA Game State Management Sample, available at:
+
+https://github.com/tomizechsterson/game-state-management-monogame
+
+and relased under the MIT License
+
+crates -> from Rust Ltd. (http://www.rustltd.com/) and released to open domain on OpenGameArt (https://opengameart.org/content/3-crate-textures-w-bump-normal)
+
+Success.wav | Bad.wav -> Made with BFXR, feel free to use them for whatever
+
+PressStart2P-Regular.ttf -> Released under OFL licensing from google fonts
+
+background.png -> Generated with ChatGPT using the crate png as a reference for the image.
